@@ -88,7 +88,7 @@ S3/
     </td>
     <td align="center">
       <b>Send WhatsApp messages without saving numbers</b><br/>
-      <img src="POC/Screenshot 02.jpg" alt="WhatsApp Template" width="150"/>
+      <img src="POC/Screenshot 02.jpg" alt="WhatsApp Template" width="170"/>
     </td>
   </tr>
 </table>
