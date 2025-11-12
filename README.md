@@ -45,7 +45,7 @@ Below is an example of the data you can scrape from a Google Maps business page:
    git clone https://github.com/SecurityTalent/WhatsApp-Google-Maps-Scraper-SecurityTalent-.git
 
 2. **Open Chrome Extensions Manager**
-- Go to: chrome://extensions/
+- Go to: `chrome://extensions/`
 
 3. **Enable Developer Mode**
 - Toggle the switch in the top-right corner.
@@ -93,3 +93,13 @@ S3/
   </tr>
 </table>
 
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+
+
+## 🔗 Follow Us
+
+Stay updated with our latest projects and updates:
+
+[![Follow us on X](https://img.shields.io/badge/Follow%20on-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/securi3ytalent)
