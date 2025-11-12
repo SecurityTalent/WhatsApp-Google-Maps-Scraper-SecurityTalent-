@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "WhatsApp + Google Maps Scraper(SecurityTalent)",
+  "version": "2.0",
+  "description": "Send WhatsApp with templates and scrape Google Maps business info.",
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "storage",
+    "scripting",
+    "activeTab",
+    "downloads"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "WhatsApp + Maps Tools"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "host_permissions": [
+    "*://www.google.com/maps/*"
+  ]
+}
