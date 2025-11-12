@@ -80,16 +80,16 @@ S3/
 
 ## 📸 Screenshots
 
-<div style="display: flex; gap: 20px;">
+<table>
+  <tr>
+    <td align="center">
+      <b>Extension Popup</b><br/>
+      <img src="POC/Screenshot.png" alt="Extension Popup" width="200"/>
+    </td>
+    <td align="center">
+      <b>Send WhatsApp messages without saving numbers</b><br/>
+      <img src="POC/Screenshot 02.jpg" alt="WhatsApp Template" width="130"/>
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <h4>Extension Popup</h4>
-    <img src="POC/Screenshot.png" alt="Extension Popup" width="200"/>
-  </div>
-
-  <div>
-    <h4>Send WhatsApp messages without saving numbers</h4>
-    <img src="POC/Screenshot 02.jpg" alt="WhatsApp Template" width="200"/>
-  </div>
-
-</div>
