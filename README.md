@@ -1,4 +1,4 @@
-# 🧠 SecurityTalent – WhatsApp + Google Maps Scraper Chrome Extension
+# 🧠 WhatsApp + Google Maps Scraper Chrome Extension
 
 This Chrome Extension allows you to:
 - 📞 Extract business data directly from **Google Maps**
